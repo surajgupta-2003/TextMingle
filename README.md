@@ -1,9 +1,9 @@
-# TextUtils - Advanced Text Manipulation
+# TextMingle - Advanced Text Manipulation
 
-![TextUtils](https://img.shields.io/badge/TextUtils-React%20App-blue)
+![textMingle](https://img.shields.io/badge/textMingle-React%20App-blue)
 
 ## 🚀 Introduction
-TextUtils is a powerful web-based text manipulation tool built with **React, Bootstrap, and JavaScript**. It offers advanced text processing functions such as **case conversion, text analysis, encoding, and more**, making it a perfect utility for developers, writers, and data analysts.
+textMingle is a powerful web-based text manipulation tool built with **React, Bootstrap, and JavaScript**. It offers advanced text processing functions such as **case conversion, text analysis, encoding, and more**, making it a perfect utility for developers, writers, and data analysts.
 
 ## ✨ Features
 - Convert text to **Uppercase, Lowercase, Capitalized** format.
@@ -23,8 +23,8 @@ TextUtils is a powerful web-based text manipulation tool built with **React, Boo
 ## 📌 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/TextUtils.git
-cd TextUtils
+git clone https://github.com/your-username/textMingle.git
+cd textMingle
 
 # Install dependencies
 npm install
