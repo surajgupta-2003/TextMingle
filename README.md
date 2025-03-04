@@ -1,55 +1,70 @@
-# TextMingle - Advanced Text Manipulation
+# Getting Started with Create React App
 
-![textMingle](https://img.shields.io/badge/textMingle-React%20App-blue)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🚀 Introduction
-textMingle is a powerful web-based text manipulation tool built with **React, Bootstrap, and JavaScript**. It offers advanced text processing functions such as **case conversion, text analysis, encoding, and more**, making it a perfect utility for developers, writers, and data analysts.
+## Available Scripts
 
-## ✨ Features
-- Convert text to **Uppercase, Lowercase, Capitalized** format.
-- Remove **extra spaces, numbers, and special characters**.
-- **Copy, download, and extract emails** from text.
-- **Reverse text, check palindromes, and convert numbers to words**.
-- Encode text in **Base64** and generate **QR codes**.
-- **Text-to-Speech** and **Joke Generator**.
-- Dynamic theme switcher with **color-based themes**.
+In the project directory, you can run:
 
-## 🛠️ Tech Stack
-- **Frontend**: React.js, Bootstrap, JavaScript
-- **Routing**: React Router DOM
-- **State Management**: React Hooks
-- **APIs Used**: [QR Code Generator](https://api.qrserver.com), [Joke API](https://official-joke-api.appspot.com/random_joke)
+### `npm start`
 
-## 📌 Installation
-```sh
-# Clone the repository
-git clone https://github.com/your-username/textMingle.git
-cd textMingle
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Install dependencies
-npm install
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# Start the application
-npm start
-```
+### `npm test`
 
-## 🎯 Usage
-- Open the app in your browser.
-- Enter text in the textarea.
-- Click buttons to apply transformations.
-- Switch themes using the navbar buttons.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🌍 API Integrations
-- **QR Code Generator API**: Generates QR codes from text input.
-- **Joke API**: Fetches random jokes to append to text.
-- **Text-to-Speech API**: Reads the entered text aloud.
+### `npm run build`
 
-## 📌 Contributing
-1. Fork the repository.
-2. Create a new branch (`feature-name`).
-3. Commit changes (`git commit -m 'Add new feature'`).
-4. Push to GitHub (`git push origin feature-name`).
-5. Open a Pull Request.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 💡 Author
-Developed by **Suraj Gupta**. Connect with me on [LinkedIn](#) or [GitHub](#).
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
